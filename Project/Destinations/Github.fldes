@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\1-Cloudian\Output"
+  Port=""
+  ViewUrl="https://github.com/dschleicher/madcap"
+  Type="scm"
+  ProviderType="Git"
+  Database="C:\1-Cloudian\Output\.git"
+  DatabaseRoot="C:\1-Cloudian\Output"
+  PushToRemote="true"
+  RemoteRepository="Github"></CatapultDestination>

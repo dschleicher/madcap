@@ -13,4 +13,10 @@
   IncludeStopWords="true"
   GenerateWebSafeImages="true"
   WebSafeFileExtension="png"
-  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp"></CatapultTarget>
+  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp"
+  OutputFile="HyperStoreHelp">
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Github.fldes" />
+  </Destinations>
+</CatapultTarget>
